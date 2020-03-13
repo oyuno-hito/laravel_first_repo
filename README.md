@@ -14,3 +14,11 @@
 ## 期限
 特に考えていない。
 入社までにできると望ましい
+
+
+## 環境
+docker想定？
+docker環境については以下リンク記事を参考にして構築を行った
+https://qiita.com/ucan-lab/items/17c806973e69792ada99
+* centos7
+* apache
